@@ -6,4 +6,4 @@ Agnipratim Nag, Kandarp Solanki
 
 Verifying the Central Limit Theorem through Electronics!
 
-Video demo: [here](https://drive.google.com/file/d/1zkPqaj4cvM1CR9bDg0BG2RInvOkUedHf/view?usp=sharing)
+A 4K video demonstration can be found [here.](https://drive.google.com/file/d/1zkPqaj4cvM1CR9bDg0BG2RInvOkUedHf/view?usp=sharing)
